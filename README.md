@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there! I'm Biel Altés 👋 </h1>
 
 ## ▪️ I'm computer engineering student at [FIB-UPC](https://www.fib.upc.edu/ca) 👨🏻‍💻📚 
 
