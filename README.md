@@ -2,7 +2,7 @@
 
 ## ▪️ I'm computer engineering student at [FIB-UPC](https://www.fib.upc.edu/ca) 👨🏻‍💻📚 
 
-## ▪️ I'm also a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
+## ▪️ I'm also a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻 
 
 ## ▪️ Github stats 📊
 
