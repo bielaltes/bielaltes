@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**bielaltes/bielaltes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ▪️ I'm computer cience student at [FIB-UPC](https://www.fib.upc.edu/ca) 👨🏻‍💻📚 
 
-Here are some ideas to get you started:
+## ▪️ I'm also a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ▪️ Github stats 📊
+
+![bielaltes GitHub stats](https://github-readme-stats.vercel.app/api?username=bielaltes&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielaltes&layout=compact&theme=github_dark)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bielaltes.visitor-badge)
+
+## ▪️ Contact me 📥
+
+Email: biel.altes@estudiantat.upc.edu
+
