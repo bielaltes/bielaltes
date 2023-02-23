@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there! I'm Biel Altés 👋 </h1>
 
-## ▪️ I'm computer engineering student at [FIB-UPC](https://www.fib.upc.edu/ca) 👨🏻‍💻📚 
+## ▪️ Computer engineering student at [FIB-UPC](https://www.fib.upc.edu/ca) 👨🏻‍💻📚 
 
-## ▪️ I'm also a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻 
+## ▪️ Also a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻 
 
 ## ▪️ Github stats 📊
 
